@@ -131,4 +131,6 @@ There are two exercises:
 - [Basic Queries](basic_queries.sql) - SELECT, INSERT, UPDATE, DELETE
 - [Advanced Queries](advanced_queries.sql) - JOINS
 
-You can run these exercises in the same way that you loaded the schema and seed files.
+You can run these exercises in the same way that you loaded the schema and seed files: 
+
+> For example, to run commands in basic_queries.sql, enter `psql -d library < basic_queries.sql`. 
