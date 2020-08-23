@@ -28,15 +28,15 @@ Take a few minutes to research the other rows.
 
 ## Load The Schema
 
-There are two ways to execute a sql file using psql.
+There are two ways to execute a sql file using psql. 
 
-* Using your normal shell
+* Using your normal shell (be sure you have changed directory into this repo):
 
 ```bash
 $ psql -d library < schema.sql
 ```
 
-* Or from inside the psql cli
+* Or from inside the psql cli:
 
 ```sql
 -- first cd to the directory where the file is
